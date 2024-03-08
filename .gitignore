@@ -1,0 +1,22 @@
+# Dependências instaladas via npm
+/node_modules
+
+# Arquivo de log
+*.log
+
+# Arquivos de configuração que podem conter credenciais sensíveis
+.env
+
+# Arquivos de build e distribuição
+/build
+/dist
+
+# Arquivos de dependência de desenvolvimento instalados via npm
+/devDependencies
+
+# Arquivos de dependência instalados via npm que não são necessários no repositório
+/package-lock.json
+
+# Arquivos de configuração de editor/IDE
+.idea
+.vscode
